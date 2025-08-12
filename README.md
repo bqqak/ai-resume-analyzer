@@ -13,7 +13,8 @@ A web app built with React, React Router, and Puter.js that helps match candidat
 
     Clean, reusable UI components
 
-    ⚙️ Tech Stack
+
+⚙️ Tech Stack
 
     React — A widely used open-source JavaScript library for building dynamic user interfaces with reusable components and a virtual DOM, enabling efficient single-page and native applications.
 
